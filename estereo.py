@@ -1,5 +1,5 @@
 '''
-Núria Rodríguez Pardo. 
+Marcel Botines Ramallo. 
 Sonido estéreo y ficheros WAVE: este fichero incluyen las funciones 
 que permiten el manejo de los canales de una señal estéreo y su 
 codificación/decodificación para compatiblilizar ésta con sistemas
