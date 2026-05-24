@@ -1,6 +1,6 @@
 # Sonido estéreo y ficheros WAVE
 
-## Nom i cognoms: Núria Rodríguez Pardo
+## Nom i cognoms: Marcel Botines Ramallo
 
 ## El formato WAVE
 
